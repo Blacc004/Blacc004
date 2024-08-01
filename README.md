@@ -18,7 +18,7 @@ Discuss recent GitHub activity or contributions
 - 📫 Let's Connect:
 - 👀 LinkedIn: www.linkedin.com/in/onanuga-emmanuel-11b416265
 - 👀 Twitter: https://x.com/Blacc_Ong?s=08
-- 📫 buy me a Book: http://buymeacoffee.com/Blacc004
+- 📫 Buy me a Book: http://buymeacoffee.com/Blacc004
 - 👀 I'm excited about collaborating on projects, discussing tech ideas, and contributing to the developer community. 
 - ⚡ Feel free to reach out for discussions or collaborations!
 
